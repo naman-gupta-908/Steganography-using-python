@@ -3,4 +3,5 @@
 Requirements:
 
 stegano module
+
 command: pip intall stegano
